@@ -1,0 +1,6 @@
+bread milk
+git add groceries.txt
+git commit -m "add groceries.txt"
+git status
+
+cd ~/projects/ds-prep-workspace
